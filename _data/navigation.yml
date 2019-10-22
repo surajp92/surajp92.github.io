@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
- # - title: "Talks"
- #   url: /talks/    
+ {% comment %} - title: "Talks"
+    url: /talks/    {% endcomment %}
    
   - title: "CV"
     url: /cv/
