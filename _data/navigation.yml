@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
- {% comment %} - title: "Talks"
-    url: /talks/    {% endcomment %}
    
   - title: "CV"
     url: /cv/
