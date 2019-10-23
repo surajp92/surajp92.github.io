@@ -28,6 +28,10 @@ Work experience
   * Conducted field trials with the designed propulsor and measured optimal efficiency with 10\% variance.
   * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV itself.
   * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives of AUV.
+
+* Fall 2013 - Spring 2014: Undergraduate Project Assistant, Hindalco Industries, Mumbai
+  * Developed a [2D transient thermal model](https://github.com/surajp92/Undergraduate-Project) for heat transfer annealing cycle with an objective to achieve desired properties with minimum energy consumption.
+  * Designed an experimental setup to determine variation of thermal contact conductance of aluminium coil.
   
 Skills
 ======
