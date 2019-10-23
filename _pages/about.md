@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Suraj's homepage on the web.
+I am a graduate student in Mechanical and Aerospace engineering at Oklahoma State University. My doctoral adviser is Dr. Omer San [a link](https://scholar.google.com/citations?hl=en&user=MrS0c8MAAAAJ)
 
 Lorem ipsum.
