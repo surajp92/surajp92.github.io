@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 * Spring 2019 - Present: Graduate Research Assistant, Oklahoma State University 
-  * Developed [ANN and CNN frameworks] (https://github.com/surajp92/2D_Turbulence) for a-priori investigation of data-driven subgrid-   scale models for LES
-  * Developed  [NIROM framework] (https://github.com/surajp92/DNN-based-NIROM) using DNN and LSTM algorithms for model order reduction of fluid flows.
-  * Assessed the performance of different [iterative solvers] (https://github.com/surajp92/Research_Codes/tree/master/Compact\%20Schemes) (Gauss-Seidel, Conjugate gradient, BiCGStab methods) and multigrid framework using higher-order compact scheme
+  * Developed [ANN and CNN frameworks](https://github.com/surajp92/2D_Turbulence) for a-priori investigation of data-driven subgrid-   scale models for LES
+  * Developed  [NIROM framework](https://github.com/surajp92/DNN-based-NIROM) using DNN and LSTM algorithms for model order reduction of fluid flows.
+  * Assessed the performance of different [iterative solvers](https://github.com/surajp92/Research_Codes/tree/master/Compact\%20Schemes) (Gauss-Seidel, Conjugate gradient, BiCGStab methods) and multigrid framework using higher-order compact scheme
 
 * Fall 2015: Research Assistant
   * Github University
