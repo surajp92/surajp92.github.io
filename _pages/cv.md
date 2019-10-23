@@ -15,6 +15,12 @@ Education
 * M.S. in Mechanical Engineering, Virginia Polytechnic Institute & State University, 2018
 * Ph.D in Mechanical Engineering, Oklahoma State University, 2022 (expected)
 
+Skills
+======
+* Programming: Python, Keras, Tensorflow, Julia, Fortran, MPI, OpenMP, MATLAB, C/C++, PyQt, Git
+* Software: STAR-CCM+, Ansys, Abaqus, SolidWorks, CAESES, CATIA, ProE, AutoCAD, Tecplot, SAP, MS Office
+* Knowledge & Strengths: Deep neural networks, CFD, Turbulence modeling, Reduce order modeling, Numerical analysis
+
 Work experience
 ======
 * Spring 2019 - Present: Graduate Research Assistant, CFD Lab, Oklahoma State University 
@@ -33,15 +39,6 @@ Work experience
   * Developed a [2D transient thermal model](https://github.com/surajp92/Undergraduate-Project) for heat transfer annealing cycle with an objective to achieve desired properties with minimum energy consumption.
   * Designed an experimental setup to determine variation of thermal contact conductance of aluminium coil.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
