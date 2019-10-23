@@ -17,15 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2019 - Present: Graduate Research Assistant, Oklahoma State University 
+* Spring 2019 - Present: Graduate Research Assistant, CFD Lab, Oklahoma State University 
   * Developed [ANN and CNN frameworks](https://github.com/surajp92/2D_Turbulence) for a-priori investigation of data-driven subgrid-   scale models for LES
   * Developed  [NIROM framework](https://github.com/surajp92/DNN-based-NIROM) using DNN and LSTM algorithms for model order reduction of fluid flows.
   * Assessed the performance of different [iterative solvers](https://github.com/surajp92/Research_Codes/tree/master/Compact\%20Schemes) (Gauss-Seidel, Conjugate gradient, BiCGStab methods) and multigrid framework using higher-order compact scheme
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017 - Fall 2018: Graduate Research Assistant, Autonomous Systems and Controls Lab, Virginia Tech
+  * Developed a CFD RANSE (transition) model to verify and validate the open-water performance of ducted propeller
+  * Designed and optimized highly loaded post-swirl propulsor for AUV using surrogate-based optimization algorithm.
+  * Conducted field trials with the designed propulsor and measured optimal efficiency with 10\% variance.
+  * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV itself.
+  * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives of AUV.
   
 Skills
 ======
