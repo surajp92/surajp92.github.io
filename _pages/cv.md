@@ -25,7 +25,7 @@ Work experience
 * Spring 2017 - Fall 2018: Graduate Research Assistant, Autonomous Systems and Controls Lab, Virginia Tech
   * Developed a CFD RANSE (transition) model to validate the open-water performance of ducted propeller
   * Designed and optimized post-swirl propulsor for AUV using surrogate-based optimization algorithm.
-  * Conducted field trials with the designed propulsor and measured optimal efficiency with 10\% variance.
+  * Conducted field trials with the designed propulsor and measured optimal efficiency with 10% variance.
   * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV.
   * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives.
 
