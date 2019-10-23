@@ -26,8 +26,8 @@ Work experience
   * Developed a CFD RANSE (transition) model to verify and validate the open-water performance of ducted propeller
   * Designed and optimized highly loaded post-swirl propulsor for AUV using surrogate-based optimization algorithm.
   * Conducted field trials with the designed propulsor and measured optimal efficiency with 10\% variance.
-  * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV itself.
-  * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives of AUV.
+  * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV.
+  * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives.
 
 * Fall 2013 - Spring 2014: Undergraduate Project Assistant, Hindalco Industries, Mumbai
   * Developed a [2D transient thermal model](https://github.com/surajp92/Undergraduate-Project) for heat transfer annealing cycle with an objective to achieve desired properties with minimum energy consumption.
