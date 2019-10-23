@@ -23,8 +23,8 @@ Work experience
   * Assessed the performance of different [iterative solvers](https://github.com/surajp92/Research_Codes/tree/master/Compact\%20Schemes) (Gauss-Seidel, Conjugate gradient, BiCGStab methods) and multigrid framework using higher-order compact scheme
 
 * Spring 2017 - Fall 2018: Graduate Research Assistant, Autonomous Systems and Controls Lab, Virginia Tech
-  * Developed a CFD RANSE (transition) model to verify and validate the open-water performance of ducted propeller
-  * Designed and optimized highly loaded post-swirl propulsor for AUV using surrogate-based optimization algorithm.
+  * Developed a CFD RANSE (transition) model to validate the open-water performance of ducted propeller
+  * Designed and optimized post-swirl propulsor for AUV using surrogate-based optimization algorithm.
   * Conducted field trials with the designed propulsor and measured optimal efficiency with 10\% variance.
   * Lead mechanical design engineer for Dragon AUV towing a large payload having 80% more drag than the AUV.
   * Developed a CFD URANS model with DFBI and overset dynamic mesh to calculate hydrodynamic derivatives.
